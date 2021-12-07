@@ -5,6 +5,6 @@ Sigmoid is being used as the activation function. Which is preferred for this da
 
 # Arguments
 h_nodes = number of perceptrons in a hidden layer <br>
-h_layers = number of hidden layers
-learningRate(self explainatory)
-samples    //
+h_layers = number of hidden layers <br>
+learningRate(self explainatory)  <br>
+samples    //   <br>
