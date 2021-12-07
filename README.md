@@ -4,7 +4,7 @@ The weight vectors are randomly initialized and are dynamically updated as the n
 Sigmoid is being used as the activation function. Which is preferred for this dataset.
 
 # Arguments
-h_nodes = number of perceptrons in a hidden layer
+h_nodes = number of perceptrons in a hidden layer <br>
 h_layers = number of hidden layers
 learningRate(self explainatory)
 samples    //
